@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+1. Complete my current course and earn a certificate in Git and GitHub.
+2. Learn a programming language such as Python or JavaScript.
+3. Contribute to at least one open source project on GitHub.
+4. Build a personal portfolio repository showcasing my projects.
+5. Improve my understanding of version control in team environments.
