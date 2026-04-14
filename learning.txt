@@ -1,0 +1,1 @@
+In this course, I have learned the fundamentals of Git and GitHub. I now understand how to create repositories, make commits, work with branches, and push changes to GitHub. I have also learned how to collaborate with others through forking repositories and creating pull requests. These skills are essential for working in any modern team environment.
