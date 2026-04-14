@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Lavender and I am currently learning Git and GitHub as part of my coursework. I am excited to explore version control and how it helps in managing projects efficiently.
+
+I enjoy learning new technologies and this course has been a great opportunity to understand how developers and teams collaborate on projects using tools like Git and GitHub.
